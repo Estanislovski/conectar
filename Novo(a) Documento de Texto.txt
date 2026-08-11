@@ -1,1 +1,2 @@
 teste de conexão com o GitHub via git
+teste de conecção no senac
